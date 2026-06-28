@@ -675,6 +675,6 @@ All shared screenshots and logs will be sanitized before publication.
 
 Daniel Damek  
 Student of Informatics at FIIT STU  
-Focus: Linux, cybersecurity, backend development, attack detection, and security monitoring
+Focus: Linux, cybersecurity, attack detection, and security monitoring
 
 GitHub: <https://github.com/RajmanCHesus/>
